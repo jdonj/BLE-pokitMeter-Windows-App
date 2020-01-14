@@ -33,16 +33,17 @@ Windows based application for pokitMeter for accessing DMM functions:
 * Run the python script 'main_gui.py'
 * Run the stand-alone (exe) file 'pokitMeter_DMM'
 
-2.1	Scanning
+### 2.1	Scanning
 Once the app is started it will scan automatically and display a wait indicator as shown below:
 
 ![](/images/scanning.png)
 
-2.2	Scanned Devices
+### 2.2	Scanned Devices
 After scanning, the app will show a list of found devices:
 
 ![](/images/scanned_devices.png)
 
+
 Note that if pokitMeter does not appear on the list, a re-scan can be done by clicking the ‘Scan again’ button.
 
-![](/images/re-scanning.png)
+ <img align="left" width="250" height="700" src="/images/re-scanning.png">
