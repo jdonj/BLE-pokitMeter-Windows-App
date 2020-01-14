@@ -1,6 +1,6 @@
 # pokitMeter-DMM-App
 
-![](dmm_image.png)
+![](/images/dmm_image.png)
  
  
  ##	GENERAL INFORMATION
