@@ -41,7 +41,7 @@ Once the app is started it will scan automatically and display a wait indicator 
 ### 2.2	Scanned Devices
 After scanning, the app will show a list of found devices:
 
-![](/images/scanning.png)
+![](/images/scanned_devices.png)
 
 Note that if pokitMeter does not appear on the list, a re-scan can be done by clicking the ‘Scan again’ button.
 
@@ -52,3 +52,19 @@ After selecting the target device, the app will check if the device is valid by 
 
 ![](/images/connecting.png)
 
+### 2.4	Multimeter Interface
+Once connected, the UI for the DMM will be displayed.
+
+![](/images/dmm_image.png)
+
+### 2.5	Multimeter Settings
+Ranges and temperature scale can be changed on the settings.
+
+![](/images/settings.png)
+
+## Hardware
+BLE usb adapter and pokit device
+
+![](/images/ble_adapter.png)
+
+![](/images/pokitmeter.png)
