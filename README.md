@@ -65,6 +65,5 @@ Ranges and temperature scale can be changed on the settings.
 ## Hardware
 BLE usb adapter and pokit device
 
-![](/images/ble_adapter.png)
-
-![](/images/pokitmeter.png)
+ <img align="left" width="300" height="200" src="/images/ble_adapter.png">
+ <img align="left" width="300" height="200" src="/images/pokitmeter.png">
