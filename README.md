@@ -1,7 +1,7 @@
 # pokitMeter-DMM-App
 BLE devices transfer data based on Generic Attribute (GATT) which uses Services and Characteristics concepts. This Windows app implements GATT communication by using a Python library called [Bleak](https://pypi.org/project/bleak/)- which is a GATT client software.
 
-![](/images/multimeter_ui.png)
+![](/images/dmm_image.png)
 
  ##	GENERAL INFORMATION
 
@@ -35,11 +35,14 @@ Windows based application for pokitMeter for accessing DMM functions:
 
 2.1	Scanning
 Once the app is started it will scan automatically and display a wait indicator as shown below:
+
 ![](/images/scanning.png)
 
 2.2	Scanned Devices
 After scanning, the app will show a list of found devices:
+
 ![](/images/scanned_devices.png)
 
 Note that if pokitMeter does not appear on the list, a re-scan can be done by clicking the ‘Scan again’ button.
+
 ![](/images/re-scanning.png)
