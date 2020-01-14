@@ -3,9 +3,9 @@ BLE devices transfer data based on Generic Attribute (GATT) which uses Services 
 
 ![](/images/dmm_image.png)
 
- ##	GENERAL INFORMATION
+## GENERAL INFORMATION
 
-1.1	System Overview
+### 1.1	System Overview
 Windows based application for pokitMeter for accessing DMM functions: 
 
 * Voltage, Current, Resistance, Diode, Continuity, Temperature
@@ -18,12 +18,12 @@ Windows based application for pokitMeter for accessing DMM functions:
    * Under development
 * Written in Python
 
-1.2	Core Components
+### 1.2	Core Components
 * Python 3.7
 * PyQt5
 * Bleak
 
-1.3	Platform
+### 1.3	Platform
 * Windows 10
 * GUI is created using Qt Designer
 * Exe is created using PyInstaller
@@ -47,3 +47,9 @@ After scanning, the app will show a list of found devices:
 Note that if pokitMeter does not appear on the list, a re-scan can be done by clicking the ‘Scan again’ button.
 
  <img align="left" width="250" height="700" src="/images/re-scanning.png">
+ "/"
+ ### 2.3	Connecting to Target Device
+After selecting the target device, the app will check if the device is valid by checking the Manufacturer ID and will display a wait indicator as shown below:
+
+ <img align="left" src="/images/connecting.png">
+
