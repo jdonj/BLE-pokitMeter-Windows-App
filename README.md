@@ -44,8 +44,9 @@ After scanning, the app will show a list of found devices:
 ![](/images/scanning.png)
 
 Note that if pokitMeter does not appear on the list, a re-scan can be done by clicking the ‘Scan again’ button.
-<img align="left" width="250" height="700" src="/images/re-scanning.png">![]()
-
+![]()
+<img align="left" width="250" height="700" src="/images/re-scanning.png">
+![]()
 ### 2.3	Connecting to Target Device
 After selecting the target device, the app will check if the device is valid by checking the Manufacturer ID and will display a wait indicator as shown below:
 
