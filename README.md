@@ -1,8 +1,10 @@
 # pokitMeter-DMM-App
 BLE devices transfer data based on Generic Attribute (GATT) which uses Services and Characteristics concepts. This Windows app implements GATT communication by using a Python library called [Bleak](https://pypi.org/project/bleak/)- which is a GATT client software.
 
-![](/images/dmm_image.png)
- 
+<p align="center">
+  </images/dmm_image.png>
+</p>
+
  
  ##	GENERAL INFORMATION
 
